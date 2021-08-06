@@ -3,3 +3,4 @@
 * F2M_model_V14와 거의 동일하며, Residual connection 만 따로 추가
 
 ## Model architecture
+![f1](https://github.com/Kimyuhwanpeter/F2M_model_V14_2/blob/main/figure5.png)
